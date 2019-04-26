@@ -1,0 +1,14 @@
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\bin\Debug\netcoreapp2.1\DynamicExpressionForStudents.deps.json
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\bin\Debug\netcoreapp2.1\DynamicExpressionForStudents.runtimeconfig.json
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\bin\Debug\netcoreapp2.1\DynamicExpressionForStudents.runtimeconfig.dev.json
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\bin\Debug\netcoreapp2.1\DynamicExpressionForStudents.dll
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\bin\Debug\netcoreapp2.1\DynamicExpressionForStudents.pdb
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\bin\Debug\netcoreapp2.1\ExpressionLogic.dll
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\bin\Debug\netcoreapp2.1\ExpressionLogic.pdb
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\obj\Debug\netcoreapp2.1\DynamicExpressionForStudents.csprojAssemblyReference.cache
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\obj\Debug\netcoreapp2.1\DynamicExpressionForStudents.csproj.CoreCompileInputs.cache
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\obj\Debug\netcoreapp2.1\DynamicExpressionForStudents.AssemblyInfoInputs.cache
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\obj\Debug\netcoreapp2.1\DynamicExpressionForStudents.AssemblyInfo.cs
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\obj\Debug\netcoreapp2.1\DynamicExpressionForStudents.csproj.CopyComplete
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\obj\Debug\netcoreapp2.1\DynamicExpressionForStudents.dll
+E:\EPAM\DynamicExpressionForStudents\DynamicExpressionForStudents\obj\Debug\netcoreapp2.1\DynamicExpressionForStudents.pdb
